@@ -36,7 +36,7 @@
       <b-col md="7">
         <b-img
           class="main-img"
-          src="https://i0.wp.com/poposhki.com/wp-content/uploads/2019/10/isometric-03.jpg?fit=1920%2C1280"
+          src="/assets/keyboard.png"
           fluid
           alt="Keyboard"
         ></b-img>
@@ -85,14 +85,6 @@
       <b-col class="attr">
         <h2>Attributions</h2>
         <br>
-        <p>
-          <a
-            href="https://i0.wp.com/poposhki.com/wp-content/uploads/2019/10/isometric-03.jpg?fit=1920%2C1280"
-            >Keyboard image:</a
-          >
-          Vladimir @
-          <a href="http://poposhki.com/about">http://poposhki.com/about</a>
-        </p>
         <p>
           Music library: Tone.js @
           <a href="https://github.com/Tonejs/Tone.js"
