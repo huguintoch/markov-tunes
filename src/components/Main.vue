@@ -98,7 +98,7 @@
           >
         </p>
         <br>
-        <p>*The purpose of this site is solely for educational purposes.</p>
+        <p>*Site solely for educational purposes.</p>
       </b-col>
     </b-row>
   </b-container>
